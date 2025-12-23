@@ -67,3 +67,4 @@ Instead of heavy NLP libraries (like Python's spaCy), this C implementation uses
 ## 👨‍💻 Author
 **Kavin.DR**  
 *Department of Computer Science*
+***Kalaignarkarunanidhi Institute of Technology, Coimbatore***
